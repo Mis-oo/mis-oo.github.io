@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: mison.github.io/sitemap.xml
+Sitemap: mis-oo.github.io/sitemap.xml
