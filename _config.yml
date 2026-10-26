@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Portfolio Test # the website title (if blank, full name will be used instead)
+title: Portfolio # the website title (if blank, full name will be used instead)
 first_name: Mison
 middle_name:
 last_name: Gautam
